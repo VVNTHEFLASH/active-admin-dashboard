@@ -70,3 +70,11 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+gem "activeadmin", "~> 3.0"
+
+gem "devise", "~> 4.9"
+
+gem "sassc-rails", "~> 2.1"
+
+gem "faker", "~> 3.2"
